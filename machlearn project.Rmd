@@ -3,7 +3,7 @@ title: "Practical Machine Learning PA"
 output:
   html_document:
     keep_md: yes
-date: "21. Juni 2015"
+date: "June 21th 2015"
 ---
 
 ### Introduction

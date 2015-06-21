@@ -1,5 +1,5 @@
 # Practical Machine Learning PA
-21. Juni 2015  
+June 21th 2015  
 
 ### Introduction
 The goal of this project is to predict human activity patterns from sensor attached to the body by using machine learning algorithms. The data of this project has been collected from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They performed barbell lifts correctly and incorrectly in 5 different ways. More information is available from the following website: http://groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise Dataset). The training and test data can be download here:
